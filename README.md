@@ -15,6 +15,7 @@ issues, branches, commits, pull requests, reviews, and merges.
 
 - `README.md` explains the purpose of the lab.
 - `CONTRIBUTING.md` contains the practice workflow.
+- `docs/merge-strategies.md` compares the available pull request merge methods.
 - `.github/ISSUE_TEMPLATE/learning-task.md` provides a reusable task template.
 - `.github/pull_request_template.md` provides a concise PR checklist.
 
